@@ -1,0 +1,9 @@
+node_modules/
+out/
+release/
+dist/
+*.log
+.DS_Store
+
+# design reference mockup — kept locally, not published
+vid_down.png
